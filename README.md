@@ -7,3 +7,7 @@ Organization-wide defaults and the public profile page for [Asili-Programming](h
 - `ISSUE_TEMPLATE/` and `PULL_REQUEST_TEMPLATE.md`: default templates for repositories without their own.
 
 The [Asili](https://github.com/Asili-Programming/Asili) repository keeps its own copies of these files, and those take precedence there. When the Asili copies change, update these defaults to match.
+
+## License
+
+The original organization files are licensed under GNU GPL v2.0 only; see [LICENSE](LICENSE).
